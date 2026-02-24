@@ -1,0 +1,3 @@
+# Linux Fundamentals Overview
+
+Linux is an open-source, Unix-like operating system widely used for its stability, security, and flexibility. It is based on a kernel that interacts directly with hardware, while the user interface, shell, and tools provide the environment for users and applications. Linux uses a command-line interface (CLI) alongside graphical interfaces for managing files, processes, and system resources. Key concepts include file permissions, package management, shell scripting, and process management. Popular distributions (distros) like Ubuntu, CentOS, and Fedora cater to different user needs, from desktop use to enterprise-level applications.

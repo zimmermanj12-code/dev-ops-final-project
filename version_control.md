@@ -1,0 +1,3 @@
+# Version Control Overview
+
+Version control is a system that records changes to files over time, allowing multiple users to collaborate on projects while keeping track of modifications. The most popular version control system (VCS) is Git, which enables developers to work on code simultaneously, track revisions, and manage different versions of their projects. Git repositories can be stored locally or remotely (e.g., on GitHub or GitLab), supporting branching and merging to manage features, bug fixes, and releases. Version control ensures that changes are traceable, reversible, and that a history of the project is maintained for auditing, collaboration, and disaster recovery.

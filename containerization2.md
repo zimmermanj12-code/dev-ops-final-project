@@ -1,0 +1,3 @@
+# Containerization Overview 2 Jared
+
+Containerization is a technology that allows applications and their dependencies to be packaged into lightweight, portable containers, ensuring they run consistently across different computing environments. Containers isolate applications from the underlying system, making them ideal for microservices architectures, scaling, and deployment in cloud environments. Tools like Docker and Kubernetes simplify container creation, management, and orchestration, enhancing development speed, resource efficiency, and application portability across systems and platforms.
